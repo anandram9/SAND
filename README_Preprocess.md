@@ -7,3 +7,6 @@ dataset{
         Text: "Included age and sex of the partipant"
         Audio_arrays : vector_array
         }
+
+To start working with file; 
+use the command pip install -r requirements.txt
